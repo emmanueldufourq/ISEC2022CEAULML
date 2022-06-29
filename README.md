@@ -12,3 +12,8 @@ Machine Learning in Science Workshop: https://workshopmachinelearning.weebly.com
 
 * Slides:
 
+<hr>
+
+Feel free to reach out: edufourq@sun.ac.za
+
+Visit our group: http://www.sun.ac.za/english/data-science-and-computational-thinking/research/ds4es
